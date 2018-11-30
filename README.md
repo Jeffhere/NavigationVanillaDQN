@@ -65,6 +65,6 @@ Feel free to experiment with modifying the hyperparameters to see how it affects
 - [agent.py](agent.py) : play with the hyperparams of an RL agent like gamma, epsilon, tau ..
 
 ## Report
-See the [report](Report.md) for more details.  
+See the [report](report.md) for more details.  
 
 
